@@ -1,0 +1,15 @@
+{
+  "name": "cy-appactions",
+  "version": "1.0.0",
+  "description": "Exemplo de app actions com Cypress",
+  "license": "ISC",
+  "author": "PedroRicardo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "dependencies": {
+    "cypress": "^15.9.0"
+  }
+}
