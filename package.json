@@ -10,6 +10,14 @@
     "test": "npx cypress run"
   },
   "dependencies": {
+    "@cypress/webpack-preprocessor": "^7.0.2",
     "cypress": "^15.9.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.0",
+    "@badeball/cypress-cucumber-preprocessor": "^24.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.8",
+    "babel-loader": "^10.0.0"
   }
 }
