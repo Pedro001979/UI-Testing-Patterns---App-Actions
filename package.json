@@ -1,7 +1,7 @@
 {
-  "name": "cy-appactions",
+  "name": "cy-bdd",
   "version": "1.0.0",
-  "description": "Exemplo de app actions com Cypress",
+  "description": "Exemplo de Behavior Driven Development (BDD) usando Cypress",
   "license": "ISC",
   "author": "PedroRicardo",
   "type": "commonjs",
